@@ -1,3 +1,3 @@
-## Example page
+## Administrative control
 
-This is an example page. You can edit it or create a [new one](new_page.md)
+The rules, procedures and practices dealing with operational effectiveness, efficiency and adherence to regulations and management policies.
